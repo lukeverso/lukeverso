@@ -1,12 +1,12 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=lukeverso" alt="lukeverso" /></p>
 
-# Hello 👋, I am Lucas Cristovam
+# Hello, I am Lucas Cristovam
 
-💻 Full-Stack Developer from Rio de Janeiro, Brazil. Currently living in Parnamirim, Rio Grande do Norte. Comic book lover. JavaScript, TypeScript, React and React Native.
+I'm a Full Stack Developer from Rio de Janeiro, Brazil. Currently living in Parnamirim, Rio Grande do Norte. Comic book lover. JavaScript, TypeScript, React and React Native.
 
-💼 I'm currently working at [Zlin Pay](https://zlinpay.com/).
+Currently working at [Zlin Pay](https://zlinpay.com/).
 
-📚 At the moment, I'm learning ***TypeScript***.
+Learning ***TypeScript*** at the moment. Also studying ***Python***.
 
 ## You can find me at...
 [![Linkedin Badge](https://img.shields.io/badge/lukeverso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukeverso/)
