@@ -1,10 +1,10 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=lukeverso" alt="lukeverso" /></p>
 
-# Hello, I am Lucas Cristovam
+# Hello, you can call me Lucas Cristovam
 
 I'm a Full Stack Developer from Rio de Janeiro, Brazil. Currently living in Parnamirim, Rio Grande do Norte. Comic book lover. JavaScript, TypeScript, React and React Native.
 
-Learning ***TypeScript*** at the moment. Also studying ***Python***.
+Learning ***TypeScript*** at the moment.
 
 ## You can find me at...
 [![Linkedin Badge](https://img.shields.io/badge/lukeverso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukeverso/)
