@@ -2,7 +2,7 @@
 
 # Hello, you can call me Lucas Cristovam
 
-I'm a Full Stack Developer from Rio de Janeiro, Brazil. Currently living in Parnamirim, Rio Grande do Norte. Comic book lover. JavaScript, TypeScript, React and React Native.
+I'm a Full Stack Developer from Rio de Janeiro, Brazil. Comic book lover. JavaScript, TypeScript, React and React Native.
 
 Learning ***TypeScript*** at the moment.
 
