@@ -4,7 +4,7 @@
 
 I'm a Full Stack Developer from Rio de Janeiro, Brazil. Comic book lover. JavaScript, TypeScript, React and React Native.
 
-Learning ***TypeScript*** at the moment.
+Improving my ***React Native*** skills at the moment.
 
 ## You can find me at...
 [![Linkedin Badge](https://img.shields.io/badge/lukeverso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukeverso/)
